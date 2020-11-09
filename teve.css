@@ -2,6 +2,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: cursive;
+  background-image: url(sivatag.jpg);
 }
 
 p {
@@ -49,7 +50,7 @@ h1 {
 #jobbra {
   text-align: right;
 }
-a:link {
+a {
   text-decoration: none;
   color: orange;
 }
